@@ -29,7 +29,7 @@ struct MealListView: View {
                             Text(meal.strMeal)
                             
                             Spacer()
-                        }
+                        }.padding([.leading, .trailing], 10)
                         .onTapGesture {
                             viewModel.selectMeal(meal: meal)
                         }
