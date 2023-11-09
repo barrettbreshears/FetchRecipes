@@ -8,3 +8,5 @@ The app was built quickly to meet the following criteria:
 • Meal name
 • Instructions
 • Ingredients/measurements
+
+## There are no dependencies or special instructions to run this project. Just downlaod sourcecode and open in xcode and hit run.
